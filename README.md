@@ -19,7 +19,7 @@ SmartMeds is a blockchain-based healthcare application that aims to provide a se
 
 To get started with SmartMeds, clone the repository and install the necessary dependencies:
 
-git clone https://github.com/your-username/smartmeds.git
+git clone https://github.com/AnantJainn/Blockchain-MedicalRecords.git
 cd smartmeds
 npm install
 
